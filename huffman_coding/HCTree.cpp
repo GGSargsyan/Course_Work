@@ -1,4 +1,5 @@
 /*Austin Crinklaw
+ *Grigor Sargsyan
  *HCTree.cpp
  *5-17-2017
  *Creates a huffman coding tree from a vector of
