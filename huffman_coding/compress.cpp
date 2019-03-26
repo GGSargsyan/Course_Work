@@ -1,4 +1,5 @@
 /*Austin Crinklaw
+ *Grigor Sargsyan
  *compress.cpp
  *Compresses a file using huffman encoding*/
 #include "HCTree.h"
