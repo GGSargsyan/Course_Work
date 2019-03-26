@@ -1,4 +1,5 @@
 /*Austin Crinklaw
+ *Grigor Sargsyan
  *HCNode.hpp
  *5-17-2017
  *Overloads the < operator in order to facilitate
