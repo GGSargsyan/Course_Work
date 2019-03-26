@@ -1,4 +1,5 @@
 /*Austin Crinklaw
+ *Grigor Sarsgsyan
  *BitOutputStream.cpp
  *Bitwise functions for filestream output*/
 #include <iostream>
