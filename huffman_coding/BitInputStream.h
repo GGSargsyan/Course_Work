@@ -1,4 +1,5 @@
 /**Austin Crinklaw
+  *Grigor Sargsyan
   *BitInputStream.h*/
 #include <iostream>
 
