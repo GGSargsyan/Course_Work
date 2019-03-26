@@ -1,4 +1,5 @@
 /*Austin Crinklaw
+ *Grigor Sargsyan
  *Provides bitwise reading for filestream*/
 #include <iostream>
 #include "BitInputStream.h"
