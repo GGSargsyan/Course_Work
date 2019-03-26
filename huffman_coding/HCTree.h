@@ -1,4 +1,5 @@
 /*Austin Crinklaw
+ *Grigor Sargsyan
  *HCTree.h PA3
  *5-17-2017*/
 #ifndef HCTREE_H
